@@ -34,7 +34,10 @@ dengan:
 ```bash
 tisserand-parameter/
 ├── src/
+│   └── tisserand-bisection.py
+│   └── tisserand-brent.py
 │   └── tisserand-newton-raphson.py
+│   └── tisserand-secant.py
 ├── README.md
 └── requirements.txt
 ```
