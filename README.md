@@ -2,8 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-Program sederhana untuk menghitung dan memvisualisasikan Parameter Tisserand terhadap beberapa planet (Merkurius hingga Saturnus).  
-Kode ini menggunakan metode Newton–Raphson untuk menyelesaikan persamaan karakteristik dan menghasilkan kurva hubungan:
+Program sederhana untuk menghitung dan memvisualisasikan Parameter Tisserand terhadap beberapa planet (Merkurius hingga Saturnus). Kode ini menggunakan metode Newton–Raphson untuk menyelesaikan persamaan karakteristik dan menghasilkan kurva hubungan:
 
 - Semi-major axis (a)
 - Eksentrisitas (e)
